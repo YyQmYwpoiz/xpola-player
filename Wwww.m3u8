@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/program/playlist/0.m3u8?rid=7655996815c114a7c44bd5f3afa861ca&bvr_flags=6&bvr_ch=program&bvr_bw=2100000&st=7Lmby86BzBtKjBw22Kleig&e=1734623810
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/program/playlist/1.m3u8?rid=7655996815c114a7c44bd5f3afa861ca&bvr_flags=6&bvr_ch=program&bvr_bw=1500000&st=7Lmby86BzBtKjBw22Kleig&e=1734623810
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/program/playlist/3.m3u8?rid=7655996815c114a7c44bd5f3afa861ca&bvr_flags=6&bvr_ch=program&bvr_bw=900000&st=7Lmby86BzBtKjBw22Kleig&e=1734623810
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/program/playlist/4.m3u8?rid=7655996815c114a7c44bd5f3afa861ca&bvr_flags=6&bvr_ch=program&bvr_bw=600000&st=7Lmby86BzBtKjBw22Kleig&e=1734623810
