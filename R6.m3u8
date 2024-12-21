@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/0.m3u8?st=8e6zCABEVWPHdzq9HvbQiw&e=1734826681
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/1.m3u8?st=8e6zCABEVWPHdzq9HvbQiw&e=1734826681
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist/2.m3u8?st=8e6zCABEVWPHdzq9HvbQiw&e=1734826681
