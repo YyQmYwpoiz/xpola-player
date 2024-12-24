@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://b5db8a6cb2714c269215bdfd20550de9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-web-hls/d8f991c8-0702-4b04-8dda-a42dedf3cfc4/0.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://b075428d05b24d51b953c3926e74ea51.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-apps-hls/1ca9f769-3bd0-46c2-8b31-24ef2ec35671/3.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
+#EXT-X-STREAM-INF:BANDWIDTH=200000,RESOLUTION=426x240
+https://b5db8a6cb2714c269215bdfd20550de9.mediatailor.eu-west-1.amazonaws.com/v1/manifest/065e37dd36f6dc7043679a61592f17340f3617b6/shahid-media-prod-live-web-hls/d8f991c8-0702-4b04-8dda-a42dedf3cfc4/4.m3u8?aws.manifestfilter=video_height:144-720;video_codec:H264
