@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Series/playlist/0.m3u8?rid=7c00dde218bb9a9d166e7b236910e453&bvr_flags=6&bvr_ch=Series&bvr_bw=2100000&st=2ZUT_3kxgqiuGaQzwHIwSg&e=1735800021
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Series/playlist/1.m3u8?rid=7c00dde218bb9a9d166e7b236910e453&bvr_flags=6&bvr_ch=Series&bvr_bw=1500000&st=2ZUT_3kxgqiuGaQzwHIwSg&e=1735800021
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Series/playlist/3.m3u8?rid=7c00dde218bb9a9d166e7b236910e453&bvr_flags=6&bvr_ch=Series&bvr_bw=900000&st=2ZUT_3kxgqiuGaQzwHIwSg&e=1735800021
