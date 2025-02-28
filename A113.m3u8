@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=1920x1080
+https://12channel.bonus-tv.ru/cdn/12channel/playlist_hdhigh.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1280x720
+https://12channel.bonus-tv.ru/cdn/12channel/playlist_sdhigh.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=800000,RESOLUTION=854x480
+https://12channel.bonus-tv.ru/cdn/12channel/playlist_sdlow.m3u8
